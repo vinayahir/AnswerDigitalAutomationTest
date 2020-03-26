@@ -24,7 +24,10 @@ public class Hooks extends Utils
     @After
     public void closeBrowser()
     {
-        driver.quit();
+        if (driver != null)
+        {
+            driver.quit();
+        }
     }
 
 }

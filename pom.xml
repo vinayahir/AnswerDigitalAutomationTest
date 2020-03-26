@@ -19,8 +19,6 @@
   </properties>
 
   <dependencies>
-
-
     <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
     <dependency>
       <groupId>info.cukes</groupId>
@@ -32,12 +30,6 @@
       <groupId>info.cukes</groupId>
       <artifactId>cucumber-core</artifactId>
       <version>1.2.5</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
-    <dependency>
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-server</artifactId>
-      <version>3.14.0</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
     <dependency>
@@ -57,12 +49,16 @@
       <version>7.0.0</version>
       <scope>compile</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
+      <artifactId>selenium-server</artifactId>
       <version>3.141.59</version>
     </dependency>
+
+
+
     <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
     <dependency>
       <groupId>info.cukes</groupId>
@@ -70,10 +66,6 @@
       <version>1.2.5</version>
       <scope>test</scope>
     </dependency>
-
-
-
-
   </dependencies>
 
   <build>

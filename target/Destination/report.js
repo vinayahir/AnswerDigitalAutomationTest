@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 13424441800,
+  "duration": 63061791500,
   "status": "passed"
 });
 formatter.scenario({
@@ -48,32 +48,32 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePageAndClickOnInfiniteScroll()"
 });
 formatter.result({
-  "duration": 737823400,
+  "duration": 885180300,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userScrollThePageTwicePageShouldGoDown()"
 });
 formatter.result({
-  "duration": 20108534300,
+  "duration": 20120655700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.pageShouldGoToTheTop()"
 });
 formatter.result({
-  "duration": 25208600,
+  "duration": 27800300,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userShouldSeeTheTitle()"
 });
 formatter.result({
-  "duration": 52743600,
+  "duration": 50714800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 721310000,
+  "duration": 757920200,
   "status": "passed"
 });
 formatter.uri("src/test/Resources/FeatureFile/keyPresses.feature");
@@ -163,7 +163,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 11046829200,
+  "duration": 11327994500,
   "status": "passed"
 });
 formatter.scenario({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePageAndClickKeyPresses()"
 });
 formatter.result({
-  "duration": 522699100,
+  "duration": 458235300,
   "status": "passed"
 });
 formatter.match({
@@ -218,7 +218,7 @@ formatter.match({
   "location": "MyStepdefs.userEntersOnKeyboard(String)"
 });
 formatter.result({
-  "duration": 114023300,
+  "duration": 135605000,
   "status": "passed"
 });
 formatter.match({
@@ -231,15 +231,15 @@ formatter.match({
   "location": "MyStepdefs.userShouldSeeOnTheWebPage(String)"
 });
 formatter.result({
-  "duration": 41263200,
+  "duration": 56577800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 797501100,
+  "duration": 704567400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11055336900,
+  "duration": 11559813500,
   "status": "passed"
 });
 formatter.scenario({
@@ -281,7 +281,7 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePageAndClickKeyPresses()"
 });
 formatter.result({
-  "duration": 406252600,
+  "duration": 389021800,
   "status": "passed"
 });
 formatter.match({
@@ -294,7 +294,7 @@ formatter.match({
   "location": "MyStepdefs.userEntersOnKeyboard(String)"
 });
 formatter.result({
-  "duration": 107349600,
+  "duration": 114663200,
   "status": "passed"
 });
 formatter.match({
@@ -307,15 +307,15 @@ formatter.match({
   "location": "MyStepdefs.userShouldSeeOnTheWebPage(String)"
 });
 formatter.result({
-  "duration": 33294800,
+  "duration": 42780000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 713562000,
+  "duration": 1000478700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11083758200,
+  "duration": 11660987700,
   "status": "passed"
 });
 formatter.scenario({
@@ -357,7 +357,7 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePageAndClickKeyPresses()"
 });
 formatter.result({
-  "duration": 582287700,
+  "duration": 388991200,
   "status": "passed"
 });
 formatter.match({
@@ -370,7 +370,7 @@ formatter.match({
   "location": "MyStepdefs.userEntersOnKeyboard(String)"
 });
 formatter.result({
-  "duration": 139369600,
+  "duration": 112424900,
   "status": "passed"
 });
 formatter.match({
@@ -383,15 +383,15 @@ formatter.match({
   "location": "MyStepdefs.userShouldSeeOnTheWebPage(String)"
 });
 formatter.result({
-  "duration": 86336000,
+  "duration": 35143700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 731563100,
+  "duration": 693508100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11134070200,
+  "duration": 11288562900,
   "status": "passed"
 });
 formatter.scenario({
@@ -433,7 +433,7 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePageAndClickKeyPresses()"
 });
 formatter.result({
-  "duration": 419355100,
+  "duration": 408388000,
   "status": "passed"
 });
 formatter.match({
@@ -446,7 +446,7 @@ formatter.match({
   "location": "MyStepdefs.userEntersOnKeyboard(String)"
 });
 formatter.result({
-  "duration": 97212400,
+  "duration": 97263400,
   "status": "passed"
 });
 formatter.match({
@@ -459,11 +459,11 @@ formatter.match({
   "location": "MyStepdefs.userShouldSeeOnTheWebPage(String)"
 });
 formatter.result({
-  "duration": 39369400,
+  "duration": 39141700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 724145500,
+  "duration": 751991900,
   "status": "passed"
 });
 formatter.uri("src/test/Resources/FeatureFile/login.feature");
@@ -481,7 +481,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 11021926500,
+  "duration": 13750548500,
   "status": "passed"
 });
 formatter.scenario({
@@ -511,29 +511,29 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 711858200,
+  "duration": 631338800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userEntersCorrectUsernameAndWrongPassword()"
 });
 formatter.result({
-  "duration": 725757100,
+  "duration": 804406500,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userShouldNotAbleToLoginAndUserShouldSeeTheInvalidLoginMessage()"
 });
 formatter.result({
-  "duration": 53814600,
+  "duration": 47984600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 738115300,
+  "duration": 736515100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11108096600,
+  "duration": 11541100400,
   "status": "passed"
 });
 formatter.scenario({
@@ -563,29 +563,29 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 535274700,
+  "duration": 775977000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userEntersIncorrectUsernameAndCorrectPassword()"
 });
 formatter.result({
-  "duration": 731743500,
+  "duration": 997888500,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userShouldNotAbleToLoginAndSeeTheInvalidUsernameMessage()"
 });
 formatter.result({
-  "duration": 44434700,
+  "duration": 54694300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 716356500,
+  "duration": 706600300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10932922600,
+  "duration": 11593776200,
   "status": "passed"
 });
 formatter.scenario({
@@ -615,25 +615,25 @@ formatter.match({
   "location": "MyStepdefs.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 544176200,
+  "duration": 744119600,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userEntersCorrectUsernameAndCorrectPassword()"
 });
 formatter.result({
-  "duration": 745746000,
+  "duration": 834890800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userShouldAbleToLoginSuccessfullyAndLogOut()"
 });
 formatter.result({
-  "duration": 442234400,
+  "duration": 492712700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 715462200,
+  "duration": 754828500,
   "status": "passed"
 });
 });
